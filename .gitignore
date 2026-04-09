@@ -3,3 +3,5 @@ budgettracker/src/main/resources/application.properties
 .idea/
 *.lock
 *.probe
+budgettracker/target/
+budgettracker/HELP.md
